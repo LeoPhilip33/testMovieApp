@@ -4,6 +4,8 @@ export const PAS_DE_COMPTE_SINSCRIRE = `Pas de compte ? S'inscrire`;
 export const A_LA_UNE = 'A la une';
 export const CONTINUER_A_REGARDER = 'Continuer à regarder';
 export const GENRE = 'Genre';
+export const PLAYWRIGHT_USER = 'playwright@playwright.fr';
+export const DECONNECTER = 'Se déconnecter';
 
 export const playwrightAccount = {
     email: 'playwright@playwright.fr',
